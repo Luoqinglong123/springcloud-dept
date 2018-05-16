@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="consumer80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.lql.springcloud.DeptConsumer80_App" />
+    <option name="DEBUG_MODE" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="microservicecloudconsumerdept80" />
+    <envs />
+    <method />
+  </configuration>
+</component>

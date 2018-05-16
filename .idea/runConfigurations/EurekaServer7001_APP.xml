@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EurekaServer7001_APP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaServer7001_App" />
+    <option name="DEBUG_MODE" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="microservicecloudeureka7001" />
+    <envs />
+    <method />
+  </configuration>
+</component>
